@@ -11,10 +11,8 @@
 	STANDING
 	LAYING
 
-Measurements:
- 
-"SubjectID"
-"Activity"
+Time Domain Measurements:
+
 "TimeDomainBodyAccelerometerMeanonX"
 "TimeDomainBodyAccelerometerMeanonY"
 "TimeDomainBodyAccelerometerMeanonZ"
@@ -55,6 +53,9 @@ Measurements:
 "TimeDomainBodyGyroscopeMagnitudeSTD"
 "TimeDomainBodyGyroscopeJerkMagnitudeMean"
 "TimeDomainBodyGyroscopeJerkMagnitudeSTD"
+
+Frequency Domain Measurements:
+
 "FreqDomainBodyAccelerometerMeanonX"
 "FreqDomainBodyAccelerometerMeanonY"
 "FreqDomainBodyAccelerometerMeanonZ"
