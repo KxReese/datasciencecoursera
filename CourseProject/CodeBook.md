@@ -1,0 +1,83 @@
+# Variable names and descriptions
+
+"SubjectID" a numeric identifier assigned to each data subject.
+
+"Activity" the description of the activity being performed when the measurement was taken. 
+	
+	WALKING
+	WALKING_UPSTAIRS
+	WALKING_DOWNSTAIRS
+	SITTING
+	STANDING
+	LAYING
+
+Measurements:
+ 
+"SubjectID"
+"Activity"
+"TimeDomainBodyAccelerometerMeanonX"
+"TimeDomainBodyAccelerometerMeanonY"
+"TimeDomainBodyAccelerometerMeanonZ"
+"TimeDomainBodyAccelerometerSTDonX"
+"TimeDomainBodyAccelerometerSTDonY"
+"TimeDomainBodyAccelerometerSTDonZ"
+"TimeDomainGravityAccelerometerMeanonX"
+"TimeDomainGravityAccelerometerMeanonY"
+"TimeDomainGravityAccelerometerMeanonZ"
+"TimeDomainGravityAccelerometerSTDonX"
+"TimeDomainGravityAccelerometerSTDonY"
+"TimeDomainGravityAccelerometerSTDonZ"
+"TimeDomainBodyAccelerometerJerkMeanonX"
+"TimeDomainBodyAccelerometerJerkMeanonY"
+"TimeDomainBodyAccelerometerJerkMeanonZ"
+"TimeDomainBodyAccelerometerJerkSTDonX"
+"TimeDomainBodyAccelerometerJerkSTDonY"
+"TimeDomainBodyAccelerometerJerkSTDonZ"
+"TimeDomainBodyGyroscopeMeanonX"
+"TimeDomainBodyGyroscopeMeanonY"
+"TimeDomainBodyGyroscopeMeanonZ"
+"TimeDomainBodyGyroscopeSTDonX"
+"TimeDomainBodyGyroscopeSTDonY"
+"TimeDomainBodyGyroscopeSTDonZ"
+"TimeDomainBodyGyroscopeJerkMeanonX"
+"TimeDomainBodyGyroscopeJerkMeanonY"
+"TimeDomainBodyGyroscopeJerkMeanonZ"
+"TimeDomainBodyGyroscopeJerkSTDonX"
+"TimeDomainBodyGyroscopeJerkSTDonY"
+"TimeDomainBodyGyroscopeJerkSTDonZ"
+"TimeDomainBodyAccelerometerMagnitudeMean"
+"TimeDomainBodyAccelerometerMagnitudeSTD"
+"TimeDomainGravityAccelerometerMagnitudeMean"
+"TimeDomainGravityAccelerometerMagnitudeSTD"
+"TimeDomainBodyAccelerometerJerkMagnitudeMean"
+"TimeDomainBodyAccelerometerJerkMagnitudeSTD"
+"TimeDomainBodyGyroscopeMagnitudeMean"
+"TimeDomainBodyGyroscopeMagnitudeSTD"
+"TimeDomainBodyGyroscopeJerkMagnitudeMean"
+"TimeDomainBodyGyroscopeJerkMagnitudeSTD"
+"FreqDomainBodyAccelerometerMeanonX"
+"FreqDomainBodyAccelerometerMeanonY"
+"FreqDomainBodyAccelerometerMeanonZ"
+"FreqDomainBodyAccelerometerSTDonX"
+"FreqDomainBodyAccelerometerSTDonY"
+"FreqDomainBodyAccelerometerSTDonZ"
+"FreqDomainBodyAccelerometerJerkMeanonX"
+"FreqDomainBodyAccelerometerJerkMeanonY"
+"FreqDomainBodyAccelerometerJerkMeanonZ"
+"FreqDomainBodyAccelerometerJerkSTDonX"
+"FreqDomainBodyAccelerometerJerkSTDonY"
+"FreqDomainBodyAccelerometerJerkSTDonZ"
+"FreqDomainBodyGyroscopeMeanonX"
+"FreqDomainBodyGyroscopeMeanonY"
+"FreqDomainBodyGyroscopeMeanonZ"
+"FreqDomainBodyGyroscopeSTDonX"
+"FreqDomainBodyGyroscopeSTDonY"
+"FreqDomainBodyGyroscopeSTDonZ"
+"FreqDomainBodyAccelerometerMagnitudeMean"
+"FreqDomainBodyAccelerometerMagnitudeSTD"
+"FreqDomainBodyAccelerometerJerkMagnitudeMean"
+"FreqDomainBodyAccelerometerJerkMagnitudeSTD"
+"FreqDomainBodyGyroscopeMagnitudeMean"
+"FreqDomainBodyGyroscopeMagnitudeSTD"
+"FreqDomainBodyGyroscopeJerkMagnitudeMean"
+"FreqDomainBodyGyroscopeJerkMagnitudeSTD"
